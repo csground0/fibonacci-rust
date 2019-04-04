@@ -1,0 +1,10 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = ["José Braga <eejbraga@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num-bigint = "0.2.2"
+num-traits = "0.2.6"
+num-iter = "0.1.37"
